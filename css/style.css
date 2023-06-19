@@ -253,9 +253,9 @@ font-size: 20px;
     transition: 0.4s;
     display: inline-block; 
 }
-.icon-3{
+/* .icon-3{
     background-color: #bdc3c7;
-}
+} */
 .icon-4,
 .icon-5,
 .icon-6{
@@ -266,10 +266,10 @@ font-size: 20px;
     transition: 0.4s;
     display: inline-block; 
 }
-.icon-5,
+/* .icon-5,
 .icon-6{
     background-color: #bdc3c7;    
-}
+} */
 img{
     width: 200px;
 }
